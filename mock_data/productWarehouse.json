@@ -1,0 +1,275 @@
+[
+    {
+        "stock": 20,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 1,
+        "label": "Summer Ridge"
+    },
+    {
+        "stock": 105,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 2,
+        "label": "Declaration"
+    },
+    {
+        "stock": 32,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 3,
+        "label": "Macpherson"
+    },
+    {
+        "stock": 50,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 4,
+        "label": "Armistice"
+    },
+    {
+        "stock": 10,
+        "product_variant_id": 1,
+        "low_stock": 5,
+        "location_id": 1,
+        "label": "Summer Ridge"
+    },
+    {
+        "stock": 23,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 5,
+        "label": "Elka"
+    },
+    {
+        "stock": 76,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 1,
+        "label": "Summer Ridge"
+    },
+    {
+        "stock": 198,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 6,
+        "label": "Rockefeller"
+    },
+    {
+        "stock": 450,
+        "product_variant_id": 1,
+        "low_stock": 100,
+        "location_id": 1,
+        "label": "Summer Ridge"
+    },
+    {
+        "stock": 767,
+        "product_variant_id": 1,
+        "low_stock": 200,
+        "location_id": 7,
+        "label": "Victoria"
+    },
+    {
+        "stock": 123,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 1,
+        "label": "Summer Ridge"
+    },
+    {
+        "stock": 45,
+        "product_variant_id": 1,
+        "low_stock": 30,
+        "location_id": 8,
+        "label": "Mallory"
+    },
+    {
+        "stock": 20,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 9,
+        "label": "Crownhardt"
+    },
+    {
+        "stock": 45,
+        "product_variant_id": 1,
+        "low_stock": 40,
+        "location_id": 10,
+        "label": "Dennis"
+    },
+    {
+        "stock": 20,
+        "product_variant_id": 1,
+        "low_stock": 5,
+        "location_id": 11,
+        "label": "Susan"
+    },
+    {
+        "stock": 232,
+        "product_variant_id": 1,
+        "low_stock": 100,
+        "location_id": 12,
+        "label": "Westerfield"
+    },
+    {
+        "stock": 10,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 13,
+        "label": "Fordem"
+    },
+    {
+        "stock": 23,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 14,
+        "label": "Sunnyside"
+    },
+    {
+        "stock": 40,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 15,
+        "label": "Oriole"
+    },
+    {
+        "stock": 23,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 16,
+        "label": "Northridge"
+    },
+    {
+        "stock": 787,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 17,
+        "label": "Kennedy"
+    },
+    {
+        "stock": 450,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 18,
+        "label": "Colorado"
+    },
+    {
+        "stock": 56,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 19,
+        "label": "Green"
+    },
+    {
+        "stock": 45,
+        "product_variant_id": 1,
+        "low_stock": 23,
+        "location_id": 20,
+        "label": "Sachs"
+    },
+    {
+        "stock": 80,
+        "product_variant_id": 1,
+        "low_stock": 40,
+        "location_id": 21,
+        "label": "Myrtle"
+    },
+    {
+        "stock": 10,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 22,
+        "label": "Mcguire"
+    },
+    {
+        "stock": 10,
+        "product_variant_id": 1,
+        "low_stock": 5,
+        "location_id": 23,
+        "label": "Blackbird"
+    },
+    {
+        "stock": 42,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 24,
+        "label": "Waywood"
+    },
+    {
+        "stock": 12,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 25,
+        "label": "Main"
+    },
+    {
+        "stock": 102,
+        "product_variant_id": 1,
+        "low_stock": 50,
+        "location_id": 26,
+        "label": "Doe Crossing"
+    },
+    {
+        "stock": 67,
+        "product_variant_id": 1,
+        "low_stock": 45,
+        "location_id": 27,
+        "label": "Iowa"
+    },
+    {
+        "stock": 450,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 28,
+        "label": "Erie"
+    },
+    {
+        "stock": 100,
+        "product_variant_id": 1,
+        "low_stock": 20,
+        "location_id": 29,
+        "label": "Summit"
+    },
+    {
+        "stock": 23,
+        "product_variant_id": 1,
+        "low_stock": 23,
+        "location_id": 30,
+        "label": "Butterfield"
+    },
+    {
+        "stock": 23,
+        "product_variant_id": 1,
+        "low_stock": 51,
+        "location_id": 31,
+        "label": "Onsgard"
+    },
+    {
+        "stock": 10,
+        "product_variant_id": 1,
+        "low_stock": 5,
+        "location_id": 32,
+        "label": "Eliot"
+    },
+    {
+        "stock": 12,
+        "product_variant_id": 1,
+        "low_stock": 2,
+        "location_id": 33,
+        "label": "Prairie Rose"
+    },
+    {
+        "stock": 12,
+        "product_variant_id": 1,
+        "low_stock": 1,
+        "location_id": 34,
+        "label": "Upham"
+    },
+    {
+        "stock": 12,
+        "product_variant_id": 1,
+        "low_stock": 10,
+        "location_id": 35,
+        "label": "Forest"
+    }
+]
